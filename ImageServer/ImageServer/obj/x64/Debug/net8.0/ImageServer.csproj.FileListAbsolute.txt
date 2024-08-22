@@ -1,0 +1,12 @@
+D:\Personal\ImageServer\ImageServer\bin\x64\Debug\net8.0\ImageServer.deps.json
+D:\Personal\ImageServer\ImageServer\bin\x64\Debug\net8.0\ImageServer.dll
+D:\Personal\ImageServer\ImageServer\bin\x64\Debug\net8.0\ImageServer.pdb
+D:\Personal\ImageServer\ImageServer\obj\x64\Debug\net8.0\ImageServer.csproj.AssemblyReference.cache
+D:\Personal\ImageServer\ImageServer\obj\x64\Debug\net8.0\ImageServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\ImageServer\ImageServer\obj\x64\Debug\net8.0\ImageServer.AssemblyInfoInputs.cache
+D:\Personal\ImageServer\ImageServer\obj\x64\Debug\net8.0\ImageServer.AssemblyInfo.cs
+D:\Personal\ImageServer\ImageServer\obj\x64\Debug\net8.0\ImageServer.csproj.CoreCompileInputs.cache
+D:\Personal\ImageServer\ImageServer\obj\x64\Debug\net8.0\ImageServer.dll
+D:\Personal\ImageServer\ImageServer\obj\x64\Debug\net8.0\refint\ImageServer.dll
+D:\Personal\ImageServer\ImageServer\obj\x64\Debug\net8.0\ImageServer.pdb
+D:\Personal\ImageServer\ImageServer\obj\x64\Debug\net8.0\ref\ImageServer.dll
