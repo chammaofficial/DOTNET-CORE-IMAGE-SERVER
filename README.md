@@ -10,7 +10,7 @@
 <ol>
   <li>Install From Nuget or Download and build.</li>
   <li>Reference the dll if you build from source.</li>
-  <li>After Static File Middleware Add line =><b>app.UseImageServerMiddleware(Directory.GetCurrentDirectory(),30);</b></li>
+  <li>Before Static File Middleware Add line =><b>app.UseImageServerMiddleware(Directory.GetCurrentDirectory(),30);</b></li>
   <li>Change MaxCacheTime by changing 30 to whatever you want.</li>
 </ol>
 
