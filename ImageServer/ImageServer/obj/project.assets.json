@@ -307,11 +307,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Personal\\ImageServer\\ImageServer\\ImageServer.csproj",
+      "projectUniqueName": "D:\\Personal\\DOTNET-CORE-IMAGE-SERVER\\ImageServer\\ImageServer\\ImageServer.csproj",
       "projectName": "ImageServer",
-      "projectPath": "D:\\Personal\\ImageServer\\ImageServer\\ImageServer.csproj",
+      "projectPath": "D:\\Personal\\DOTNET-CORE-IMAGE-SERVER\\ImageServer\\ImageServer\\ImageServer.csproj",
       "packagesPath": "C:\\Users\\chamo\\.nuget\\packages\\",
-      "outputPath": "D:\\Personal\\ImageServer\\ImageServer\\obj\\",
+      "outputPath": "D:\\Personal\\DOTNET-CORE-IMAGE-SERVER\\ImageServer\\ImageServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

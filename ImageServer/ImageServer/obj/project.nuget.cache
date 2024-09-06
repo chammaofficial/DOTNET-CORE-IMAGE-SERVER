@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w6Zo3HkHhgc=",
+  "dgSpecHash": "1WJIE0oVx9s=",
   "success": true,
-  "projectFilePath": "D:\\Personal\\ImageServer\\ImageServer\\ImageServer.csproj",
+  "projectFilePath": "D:\\Personal\\DOTNET-CORE-IMAGE-SERVER\\ImageServer\\ImageServer\\ImageServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chamo\\.nuget\\packages\\magick.net-q16-x64\\13.10.0\\magick.net-q16-x64.13.10.0.nupkg.sha512",
     "C:\\Users\\chamo\\.nuget\\packages\\magick.net.core\\13.10.0\\magick.net.core.13.10.0.nupkg.sha512",

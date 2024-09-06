@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Personal\\ImageServer\\SampleProject\\SampleProject.csproj": {}
+    "D:\\Personal\\DOTNET-CORE-IMAGE-SERVER\\ImageServer\\SampleProject\\SampleProject.csproj": {}
   },
   "projects": {
-    "D:\\Personal\\ImageServer\\ImageServer\\ImageServer.csproj": {
+    "D:\\Personal\\DOTNET-CORE-IMAGE-SERVER\\ImageServer\\ImageServer\\ImageServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Personal\\ImageServer\\ImageServer\\ImageServer.csproj",
+        "projectUniqueName": "D:\\Personal\\DOTNET-CORE-IMAGE-SERVER\\ImageServer\\ImageServer\\ImageServer.csproj",
         "projectName": "ImageServer",
-        "projectPath": "D:\\Personal\\ImageServer\\ImageServer\\ImageServer.csproj",
+        "projectPath": "D:\\Personal\\DOTNET-CORE-IMAGE-SERVER\\ImageServer\\ImageServer\\ImageServer.csproj",
         "packagesPath": "C:\\Users\\chamo\\.nuget\\packages\\",
-        "outputPath": "D:\\Personal\\ImageServer\\ImageServer\\obj\\",
+        "outputPath": "D:\\Personal\\DOTNET-CORE-IMAGE-SERVER\\ImageServer\\ImageServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -80,14 +80,14 @@
         }
       }
     },
-    "D:\\Personal\\ImageServer\\SampleProject\\SampleProject.csproj": {
+    "D:\\Personal\\DOTNET-CORE-IMAGE-SERVER\\ImageServer\\SampleProject\\SampleProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Personal\\ImageServer\\SampleProject\\SampleProject.csproj",
+        "projectUniqueName": "D:\\Personal\\DOTNET-CORE-IMAGE-SERVER\\ImageServer\\SampleProject\\SampleProject.csproj",
         "projectName": "SampleProject",
-        "projectPath": "D:\\Personal\\ImageServer\\SampleProject\\SampleProject.csproj",
+        "projectPath": "D:\\Personal\\DOTNET-CORE-IMAGE-SERVER\\ImageServer\\SampleProject\\SampleProject.csproj",
         "packagesPath": "C:\\Users\\chamo\\.nuget\\packages\\",
-        "outputPath": "D:\\Personal\\ImageServer\\SampleProject\\obj\\",
+        "outputPath": "D:\\Personal\\DOTNET-CORE-IMAGE-SERVER\\ImageServer\\SampleProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -109,8 +109,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Personal\\ImageServer\\ImageServer\\ImageServer.csproj": {
-                "projectPath": "D:\\Personal\\ImageServer\\ImageServer\\ImageServer.csproj"
+              "D:\\Personal\\DOTNET-CORE-IMAGE-SERVER\\ImageServer\\ImageServer\\ImageServer.csproj": {
+                "projectPath": "D:\\Personal\\DOTNET-CORE-IMAGE-SERVER\\ImageServer\\ImageServer\\ImageServer.csproj"
               }
             }
           }
